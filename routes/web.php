@@ -19,3 +19,4 @@ Route::get('/', function () {
 
 Route::view('administrasi', 'administrasi');
 Route::view('informasi-akademik', 'informasi-akademik');
+Route::view('kesantrian', 'kesantrian');

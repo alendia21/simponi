@@ -5,4 +5,6 @@
 
     <a href="informasi-akademik">Informasi Akademik</a>
 
+    <a href="kesantrian">Kesantrian</a>
+
 </div>

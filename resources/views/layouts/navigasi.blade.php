@@ -1,10 +1,10 @@
 <div>
     <a href="/">Home</a>
 
-    <a href="administrasi">Data Admin</a>
+    <a href="administrasi">Administrasi</a>
 
-    <a href="informasi-akademik">Informasi Akademik</a>
+    <a href="informasi-akademik">Akademik</a>
 
-    <a href="kesantrian">Kesantrian Data</a>
+    <a href="kesantrian">Kesantrian</a>
 
 </div>
